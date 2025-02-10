@@ -1,0 +1,7 @@
+.button {
+    border: none;
+    background-image: radial-gradient(rgb(123, 123, 255), rgb(69, 242, 242))
+}
+.button:hover {
+    background-image: radial-gradient(rgb(39, 122, 255), rgb(254, 172, 218));
+}
